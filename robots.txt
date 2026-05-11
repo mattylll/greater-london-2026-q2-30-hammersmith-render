@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://greater-london-2026-q2-30-hammersmith-render.onrender.com/sitemap.xml
+Sitemap: https://greater-london-2026-q2-30-hammersmith.onrender.com/sitemap.xml
